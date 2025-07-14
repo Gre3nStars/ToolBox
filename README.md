@@ -45,8 +45,21 @@ A：因为使用习惯问题，及一些工具使用频次情况，还有就是�
 
 2、启动程序：python3 ToolBoxMainFrame.py
 
-工具界面截图：
+工具截图：
+
 <img width="1649" height="1047" alt="image" src="https://github.com/user-attachments/assets/db0b5ad6-2acf-46c0-bbe9-8014e8eeedc4" />
+
+<img width="1642" height="1051" alt="image" src="https://github.com/user-attachments/assets/5775afa5-d0ea-44b5-9696-34f852d909ff" />
+
+<img width="1649" height="1049" alt="image" src="https://github.com/user-attachments/assets/17302d83-fff9-4de8-8ffa-e370f5d65b1e" />
+
+<img width="1646" height="1046" alt="image" src="https://github.com/user-attachments/assets/332ce6bc-6a58-4e78-89fe-912932058b0d" />
+
+<img width="1649" height="1045" alt="image" src="https://github.com/user-attachments/assets/5375ebb9-7af4-4f0a-ab45-8a5be039712c" />
+
+
+
+
 
 
 
