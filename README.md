@@ -61,17 +61,22 @@ A：因为使用习惯问题，及一些工具使用频次情况，还有就是�
 
 点击exe启动
 
+ps：Release版本目前使用pyinstaller打包，开了console控制台，方便查看报错信息，以便进行问题定位~~
+
 工具截图：
 
-<img width="1649" height="1047" alt="image" src="https://github.com/user-attachments/assets/db0b5ad6-2acf-46c0-bbe9-8014e8eeedc4" />
+<img width="1645" height="1059" alt="image" src="https://github.com/user-attachments/assets/9011fd03-8f2b-4e10-8425-d31b0b055278" />
 
-<img width="1642" height="1051" alt="image" src="https://github.com/user-attachments/assets/5775afa5-d0ea-44b5-9696-34f852d909ff" />
+<img width="1645" height="1056" alt="image" src="https://github.com/user-attachments/assets/004eab3c-ee4b-4a8e-8942-b643dff4d049" />
 
-<img width="1649" height="1049" alt="image" src="https://github.com/user-attachments/assets/17302d83-fff9-4de8-8ffa-e370f5d65b1e" />
+<img width="1642" height="1051" alt="image" src="https://github.com/user-attachments/assets/ddf710c9-eaf6-4924-b2e3-80f8e3a65c0c" />
 
-<img width="1646" height="1046" alt="image" src="https://github.com/user-attachments/assets/332ce6bc-6a58-4e78-89fe-912932058b0d" />
+<img width="1644" height="1062" alt="image" src="https://github.com/user-attachments/assets/5a993369-55c4-41a7-97ef-e30daf3bd4b2" />
 
-<img width="1649" height="1045" alt="image" src="https://github.com/user-attachments/assets/5375ebb9-7af4-4f0a-ab45-8a5be039712c" />
+<img width="1644" height="1056" alt="image" src="https://github.com/user-attachments/assets/6157cf87-49c9-45de-b9bf-43d7cf76ecfa" />
+
+
+
 
 
 
