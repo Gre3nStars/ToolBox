@@ -1,4 +1,5 @@
-# ToolBox ver 1.0
+# ToolBox ver 1.0.5
+
 这是由PySide6编写的一个集编解码、普通加解密以及常用小工具于一体的工具箱，只为日常工作使用，工具的实现大部分由AI生成编写。
 
 Q：为什么写这个工具，市面上有很多类似的工具了，如编解码、加解密工具cyberchef非常强大
@@ -61,7 +62,13 @@ A：因为使用习惯问题，及一些工具使用频次情况，还有就是�
 
 点击exe启动
 
-ps：Release版本目前使用pyinstaller打包，开了console控制台，方便查看报错信息，以便进行问题定位~~
+ps：Release版本目前使用pyinstaller打包，文件较大，同时开了console控制台，方便查看报错信息，以便进行问题定位~~也欢迎提bug~
+
+文件hash:
+
+MD5:5abfbc94bb27afba119bd204d71496da
+
+SHA-256:2c1a37489e030ddeac7e038a9a360d7a2acdcbfec095e06dc715b881a1110663
 
 工具截图：
 
