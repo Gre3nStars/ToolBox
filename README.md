@@ -85,7 +85,7 @@ ToolBoxMainFrame.spec pyinstaller打包可使用此配置
 
 点击exe启动
 
-ps：Release版本目前使用pyinstaller打包，文件较大，同时开了console控制台，方便查看报错信息，以便进行问题定位~~也欢迎提bug~
+ps：Release版本目前使用pyinstaller打包，文件较大~~欢迎提bug~
 
 
 工具截图：
