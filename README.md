@@ -76,6 +76,8 @@ ToolBoxMainFrame.py 主程序入口
   -utils 工具库目录
   
   -widgets 窗口工具目录
+
+  -resource 资源目录，包括图标、纯真库、其它数据
   
 ToolBoxMainFrame.spec pyinstaller打包可使用此配置
 
