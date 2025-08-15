@@ -96,7 +96,8 @@ tips：工具目前支持左侧菜单折叠，最小化托盘~
 
 # 工具截图
 
-<img width="1645" height="1059" alt="image" src="https://github.com/user-attachments/assets/9011fd03-8f2b-4e10-8425-d31b0b055278" />
+<img width="1484" height="1076" alt="image" src="https://github.com/user-attachments/assets/8de42b63-95d3-4bf7-ba73-8c0e7d8aeefc" />
+
 <img width="2556" height="1535" alt="image" src="https://github.com/user-attachments/assets/07f3b5db-4d39-4e67-823a-c7871d54d471" />
 
 
