@@ -1,6 +1,7 @@
 # ToolBox ver 1.0.11
 
 1、新增功能
+
 2、修复部分bug
 
 
@@ -28,6 +29,8 @@ A：因为使用习惯问题，及一些工具使用频次情况，还有就是�
 
 （6）Bcrypt加密工具
 
+（7）国密算法工具
+
 2、开发调试工具
 
 （1）Json处理工具（解析提取对应字段的json数据并导出，格式化输出、树状输出显示）
@@ -44,6 +47,10 @@ A：因为使用习惯问题，及一些工具使用频次情况，还有就是�
 
 （2）杀软查询工具（一般般，规则库不够...）
 
+（3）ICP查询工具
+
+（4）子域名查询工具
+
 4、其它小工具
 
 （1）二维码工具（二维码生成和识别，仅支持从文件读取二维码识别）
@@ -54,6 +61,16 @@ A：因为使用习惯问题，及一些工具使用频次情况，还有就是�
 
 （4）随机字符生成工具
 
+
+# 工具目录结构
+
+ToolBoxMainFrame.py 主程序入口
+
+  -utils 工具库目录
+  
+  -widgets 窗口工具目录
+  
+ToolBoxMainFrame.spec pyinstaller打包可使用此配置
 
 
 使用方法：
@@ -70,23 +87,12 @@ A：因为使用习惯问题，及一些工具使用频次情况，还有就是�
 
 ps：Release版本目前使用pyinstaller打包，文件较大，同时开了console控制台，方便查看报错信息，以便进行问题定位~~也欢迎提bug~
 
-文件hash:
-
-MD5:5abfbc94bb27afba119bd204d71496da
-
-SHA-256:2c1a37489e030ddeac7e038a9a360d7a2acdcbfec095e06dc715b881a1110663
 
 工具截图：
 
 <img width="1645" height="1059" alt="image" src="https://github.com/user-attachments/assets/9011fd03-8f2b-4e10-8425-d31b0b055278" />
 
-<img width="1645" height="1056" alt="image" src="https://github.com/user-attachments/assets/004eab3c-ee4b-4a8e-8942-b643dff4d049" />
 
-<img width="1642" height="1051" alt="image" src="https://github.com/user-attachments/assets/ddf710c9-eaf6-4924-b2e3-80f8e3a65c0c" />
-
-<img width="1644" height="1062" alt="image" src="https://github.com/user-attachments/assets/5a993369-55c4-41a7-97ef-e30daf3bd4b2" />
-
-<img width="1644" height="1056" alt="image" src="https://github.com/user-attachments/assets/6157cf87-49c9-45de-b9bf-43d7cf76ecfa" />
 
 
 
