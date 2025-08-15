@@ -92,10 +92,13 @@ ToolBoxMainFrame.spec pyinstaller打包可使用此配置
 
 ps：Release版本目前使用pyinstaller打包，文件较大~~欢迎提bug~
 
+tips：工具目前支持左侧菜单折叠，最小化托盘~
 
-工具截图：
+# 工具截图
 
 <img width="1645" height="1059" alt="image" src="https://github.com/user-attachments/assets/9011fd03-8f2b-4e10-8425-d31b0b055278" />
+<img width="2556" height="1535" alt="image" src="https://github.com/user-attachments/assets/07f3b5db-4d39-4e67-823a-c7871d54d471" />
+
 
 
 
