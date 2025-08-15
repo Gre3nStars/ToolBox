@@ -1,10 +1,12 @@
-# ToolBox ver 1.0.11
+# ToolBox 工具箱
+
+### ver 1.0.11
 
 1、新增功能
 
 2、修复部分bug
 
-# ToolBox ver 1.0.5
+###  ver 1.0.5
 
 第一个正式版本发布~
 
@@ -80,13 +82,13 @@ ToolBoxMainFrame.spec pyinstaller打包可使用此配置
 
 # 使用方法
 
-源代码运行：
+### 源代码运行：
 
 1、安装必要的依赖，pip install -r requirements.txt（部分依赖可能还需要运行库，如pyzbar，windows需要vs2013的运行库，mac需要brew install zbar并配置）
 
 2、启动程序：python3 ToolBoxMainFrame.py
 
-打包工具运行：
+### 打包工具运行：
 
 点击exe启动
 
